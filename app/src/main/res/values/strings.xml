@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Intership</string>
+    <string name="select_profile_photo">Select Profile Photo</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="gender">Gender</string>
+    <string name="country">Country</string>
+    <string name="telephone_number">Telephone Number</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="home_town">Home Town</string>
+    <string name="state">State</string>
+    <string name="add_user">ADD USER</string>
+    <string name="full_name">Full Name</string>
+    <string name="subdetail">Subdetail</string>
+    <string name="demo_application">Demo Application</string>
+</resources>

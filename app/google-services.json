@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "941613558246",
+    "project_id": "intern-2caaf",
+    "storage_bucket": "intern-2caaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941613558246:android:18f94240ecde00c9404e27",
+        "android_client_info": {
+          "package_name": "com.example.intership"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941613558246-g8crfq1ntmhq325gp4a6s1n7bikd8r1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.intership",
+            "certificate_hash": "ec5288eec6554c30502f0cc09e1e6446ae9091c8"
+          }
+        },
+        {
+          "client_id": "941613558246-0mmqtkq5dolugt939r05e2i7pfoa3ue1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDQrRHR3swrP6gtXwT2vsFrWnhVBMxZGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941613558246-0mmqtkq5dolugt939r05e2i7pfoa3ue1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
